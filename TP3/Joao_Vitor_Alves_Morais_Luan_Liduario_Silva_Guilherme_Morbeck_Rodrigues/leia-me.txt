@@ -1,0 +1,4 @@
+Abra a pasta dos códigos com o terminal e digite o comando "make" para compilar.
+Depois digite ./main para executar o código.
+Para escolha de ordenação,struct,tamanho de vetor e tipo de preenchimento,
+digite o número equivalente ao que deseja de acordo com os menus apresentados, quando o programa solicitar.

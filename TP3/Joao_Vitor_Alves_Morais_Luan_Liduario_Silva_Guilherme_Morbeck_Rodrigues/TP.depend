@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1544062464 source:c:\users\joaom\onedrive\Área de trabalho\aeds 1\programas\tp\tp.c
+	"tp.h"
+
+1544038154 c:\users\joaom\onedrive\Área de trabalho\aeds 1\programas\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1544062142 source:c:\users\joaom\onedrive\Área de trabalho\aeds 1\programas\tp\tpmain.c
+	"tp.h"
+
+1544058542 source:c:\users\usuario\desktop\tp\tpmain.c
+	"tp.h"
+
+1544034554 c:\users\usuario\desktop\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1558726041 source:c:\users\luan\desktop\nova pasta\tp\tpmain.c
+	"tp.h"
+
+1558726364 c:\users\luan\desktop\nova pasta\tp\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	<sys/time.h>
+
+1558812906 source:c:\users\luan\desktop\nova pasta\tp\tp.c
+	"tp.h"
+
+1561675270 source:c:\users\luan\desktop\ufsj\periodo-2\aedsii\tp3\joao_vitor_alves_morais_luan_liduario_silva_guilherme_morbeck_rodrigues\tp.c
+	"tp.h"
+
+1561671605 c:\users\luan\desktop\ufsj\periodo-2\aedsii\tp3\joao_vitor_alves_morais_luan_liduario_silva_guilherme_morbeck_rodrigues\tp.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1561671878 source:c:\users\luan\desktop\ufsj\periodo-2\aedsii\tp3\joao_vitor_alves_morais_luan_liduario_silva_guilherme_morbeck_rodrigues\tpmain.c
+	"tp.h"
+

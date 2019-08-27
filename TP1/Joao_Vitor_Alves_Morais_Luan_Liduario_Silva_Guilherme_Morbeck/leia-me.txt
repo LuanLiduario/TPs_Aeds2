@@ -1,0 +1,5 @@
+O arquivo de texto com os comandos deverá ter o nome "teste". 
+Esse arquivo deverá ser colocado na mesma pasta dos códigos.
+Abra a pasta dos códigos com o terminal e digite o comando "make" para compilar.
+Depois digite ./main para executar o código.
+Para que os comandos sejam executados digite enter a cada comando. (Inclusive para o primeiro comando)
